@@ -24,7 +24,7 @@ int main()
 
         else
         {
-            switch(ch)                                                   //switch command for different cases
+            switch(ch)                                                    //switch command for different cases
             {
 
             //Addition
